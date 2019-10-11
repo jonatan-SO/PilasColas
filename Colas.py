@@ -1,4 +1,4 @@
-class colaEstarica:
+class colaEstatica:
     __tamCola = int(0)
     __listaCola = []
     def __init__(self,tamCola):
